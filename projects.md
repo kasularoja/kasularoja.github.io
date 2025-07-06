@@ -16,4 +16,4 @@ Technologies Used: React, JavaScript, HTML, CSS
 
 [View on GitHub](https://github.com/kasularoja/project-discount-deals-roja-k)
 
-[Live Page](https://kasularoja.github.io/home)
+[Live Page](https://kasularoja.github.io/project-discount-deals-roja-k/)
