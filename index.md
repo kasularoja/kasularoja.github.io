@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<link rel="stylesheet" href="/assets/style.css">
+
+
 Hello, I’m Roja.  
 I am a Full Stack Developer with strong expertise in modern web and backend technologies including Java, Spring Boot, JavaScript, React, HTML, CSS, and SQL.
 
