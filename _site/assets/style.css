@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: black;
+    color: #eee;  /* light gray for better contrast */
+    margin: 2rem;
+}
+
+
+h1, h2 {
+    color: #0052cc;
+}
+
+a {
+    color: #0077b6;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0052cc;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #121212;
+    box-shadow: 0 0 10px rgba(255,255,255,0.1);
+    border-radius: 8px;
+    color: #eee;
+}
+
+
+.profile-pic {
+    display: block;
+    margin: 0 auto 1rem;
+    width: 150px;
+    border-radius: 50%;
+}
+
